@@ -135,3 +135,5 @@ def data_pre_model():
             print(model.coef_)
             print(model.intercept_)
             #print("Accuracy:", accuracy)
+
+data_pre_model()
