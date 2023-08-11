@@ -29,7 +29,7 @@ This script demonstrates the following steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/machine-learning-model-evaluation.git
+   git clone https://github.com/dineshghadge2002/Data_Preperation_Model.git
    cd machine-learning-model-evaluation
    ```
 
